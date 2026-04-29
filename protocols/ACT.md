@@ -10,7 +10,7 @@ Core components:
 
 ACT Protocol is a minimal, self-contained, production-ready settlement layer for decentralized physical service delivery.
 
-Service Agreement → Service Delivery → Confirmation → Settlement.
+Service Agreement -> Service Delivery -> Confirmation -> Settlement.
 
 DeFi/CeFi Agnostic: Easy integration of service settlement for apps, platforms, and service providers within existing workflows.
 
@@ -18,14 +18,14 @@ DeFi/CeFi Agnostic: Easy integration of service settlement for apps, platforms, 
 
 ## What ACT Protocol Provides
 
-**Service Primitive** — on-chain service representation
+**Service Primitive** on-chain service representation
 
 - Token bound to a physical service agreement
 - Service type, scope, and terms committed on-chain
 - Hash commitment to off-chain service documentation
 - No scheduling or dispatch logic
 
-**Settlement Rails** — service delivery and settlement engine
+**Settlement Rails** service delivery and settlement engine
 
 - Trustless agree → deliver → confirm → finalize lifecycle
 - Immutable protocol fee paid to protocolTreasury

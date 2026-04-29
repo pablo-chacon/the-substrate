@@ -10,7 +10,7 @@ Core components:
 
 DROP Protocol is a minimal, self-contained, production-ready settlement layer for decentralized storage systems.
 
-Any Object or Container: Drop → Storage → Pick → Settlement.
+Any Object or Container: Drop -> Storage -> Pick -> Settlement.
 
 DeFi/CeFi Agnostic: Easy integration of storage settlement for apps, fintech providers, and payment platforms within existing workflows.
 
@@ -18,7 +18,7 @@ DeFi/CeFi Agnostic: Easy integration of storage settlement for apps, fintech pro
 
 ## What DROP Protocol Provides
 
-**DROPSpaceRegistry** — storage availability declaration
+**DROPSpaceRegistry** storage availability declaration
 
 - On-chain registration of storage spaces
 - Capacity and availability tracking
@@ -26,7 +26,7 @@ DeFi/CeFi Agnostic: Easy integration of storage settlement for apps, fintech pro
 - Hash commitment to off-chain terms
 - No pricing or ranking logic
 
-**DROPCore** — storage settlement engine
+**DROPCore** storage settlement engine
 
 - ERC-721 storage sessions
 - Drop → pick → finalize lifecycle
@@ -35,7 +35,7 @@ DeFi/CeFi Agnostic: Easy integration of storage settlement for apps, fintech pro
 - Permissionless finalization with a small finalizer tip
 - Deterministic events for indexing
 
-**Escrow** — optional value settlement
+**Escrow** optional value settlement
 
 - Reusable escrow contract
 - Supports ETH and ERC-20 tokens

@@ -10,7 +10,7 @@ Core components:
 
 CUT Protocol is a minimal, self-contained, production-ready settlement layer for decentralized digital ownership and rights management.
 
-Any Digital Medium → On-chain Representation → Ownership or Rights Transfer → Settlement.
+Any Digital Medium -> On-chain Representation -> Ownership or Rights Transfer -> Settlement.
 
 DeFi/CeFi Agnostic: Easy integration of digital rights settlement for apps, platforms, creators, and distributors within existing workflows.
 
@@ -18,14 +18,14 @@ DeFi/CeFi Agnostic: Easy integration of digital rights settlement for apps, plat
 
 ## What CUT Protocol Provides
 
-**Digital Object Primitive** — on-chain rights representation
+**Digital Object Primitive** on-chain rights representation
 
-- Token bound to any digital medium — music, video, text, software, or any other format
+- Token bound to any digital medium: music, video, text, software, or any other format
 - Fractional or full ownership rights
 - Hash commitment to off-chain content and terms
 - No platform or distribution logic
 
-**Settlement Rails** — rights transfer and settlement engine
+**Settlement Rails** rights transfer and settlement engine
 
 - Trustless transfer and licensing lifecycle
 - Immutable protocol fee paid to protocolTreasury

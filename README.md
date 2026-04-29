@@ -2,7 +2,7 @@
 
 This is not a manifesto. It is not a disruption. It is an introduction to a set of options.
 
-Freedom, in its most practical form, is the presence of valid alternatives. When there is only one way to register a vehicle, one way to settle a transaction, one way to represent ownership — that is not a system. That is a dependency. Dependencies can be captured, gated, and weaponized.
+Freedom, in its most practical form, is the presence of valid alternatives. When there is only one way to register a vehicle, one way to settle a transaction, one way to represent ownership, that is not a system. That is a dependency. We learned by history that dependencies get captured, gated, and weaponized.
 
 The Substrate does not replace existing systems. It does not ask them to change. It does not compete with them. It simply exists alongside them as a set of neutral, open, deterministic alternatives. Anyone can use them or not. Platforms can build on them or not. Existing infrastructure continues unchanged.
 
@@ -14,7 +14,7 @@ Now we have options. For everybody.
 
 ## What The Substrate Is
 
-The Substrate is six fully independent, deterministic, neutral settlement protocols. Each one converts crypto or an NFT from a speculative token into a real-world payment medium or digital representation of a physical or real-world asset.
+The Substrate is a set of fully independent, deterministic, neutral settlement protocols. Each one converts crypto or an NFT from a speculative token into a real-world payment medium or digital representation of a physical or real-world asset.
 
 Speculation exists because tokens are untethered. The Substrate tethers them to: parcels, storage, vehicles, services, commodities, and digital rights. 
 This gives crypto and NFTs actual utility: not as assets to hold and trade, but as representations of something real.
@@ -41,16 +41,6 @@ No protocol depends on the others. All can be freely combined by platforms built
 Each protocol operates like a neuron: self-contained, stateless with respect to its peers, and fully deterministic within its own domain. No protocol knows the others exist. They share no internal coupling, no shared state, no common coordinator.
 
 The intelligence emerges at the platform layer, not within the protocols themselves. Platforms built on The Substrate combine these independent primitives freely. This is composability without coupling. The Substrate is the rail. Platforms are the trains.
-
----
-
-## KEY — The One-Way Bridge
-
-KEY demonstrates something none of the other protocols do as explicitly: DeFi can reach into CeFi and make legally binding changes. CeFi cannot reach back.
-
-In at least 50 countries, vehicle ownership registries expose APIs showing current and previous owner. KEY's templates can interact with these APIs to execute a legally recognized ownership transfer — triggered from the decentralized side, recorded in the centralized system.
-
-CeFi has no equivalent path inward. It cannot initiate or modify a KEY transaction. The bridge is one-directional by design. This is not a feature. It is a structural property — proof that decentralized infrastructure can interface with and legally supersede centralized record systems without requiring those systems to change, adopt crypto, or even be aware of what initiated the change.
 
 ---
 

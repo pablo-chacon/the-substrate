@@ -37,4 +37,4 @@ Any attempt to centralize access to a Substrate protocol is self-limiting. The t
 
 Centralization on top of The Substrate is a product decision. It is never a structural capability. The reference implementation exists regardless of what is built above it.
 
-This means the only viable long-term position for any platform built on The Substrate is to add genuine value — because the alternative, locking users in, has no foundation to stand on.
+This means the only viable long-term position for any platform built on The Substrate is to add genuine value. The alternative to locking users in, has no foundation to stand on.

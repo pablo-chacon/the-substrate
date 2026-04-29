@@ -10,7 +10,7 @@ Core components:
 
 DeDe Protocol is a minimal, self-contained, production-ready settlement layer for decentralized delivery networks.
 
-Peer-to-Peer: Parcel → Pickup → Dropoff → Delivery confirmation.
+Peer-to-Peer: Parcel -> Pickup -> Dropoff -> Delivery confirmation.
 
 DeFi/CeFi Agnostic: Easy integration of delivery settlement for apps, fintech providers, and payment platforms within existing workflows.
 
@@ -18,7 +18,7 @@ DeFi/CeFi Agnostic: Easy integration of delivery settlement for apps, fintech pr
 
 ## What DeDe Protocol Provides
 
-**ParcelCore** — the settlement engine
+**ParcelCore** the settlement engine
 
 - ERC-721 parcels
 - Pickup → dropoff → finalize lifecycle
@@ -29,14 +29,14 @@ DeFi/CeFi Agnostic: Easy integration of delivery settlement for apps, fintech pr
 - Full slashing support through signer registry
 - Deterministic events for indexing
 
-**Escrow** — secure value transfer
+**Escrow** secure value transfer
 
 - Holds user funds until parcel completion
 - Releases value automatically based on parcel state transitions
 - Protocol and platform fees taken at payout time
 - Trusted by ParcelCore only
 
-**AStarSignerRegistryStaked** — oracle/signer registry
+**AStarSignerRegistryStaked** oracle/signer registry
 
 - Permissionless join
 - Mandatory stake
