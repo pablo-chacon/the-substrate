@@ -38,7 +38,12 @@ ACT is protocol-neutral about service type and scale. A local massage and a priv
 
 ## Deployment
 
-ACT Protocol is not yet deployed on Ethereum mainnet. Repository opens at deployment.
+Official ACT Protocol contract addresses:
+
+- ActToken: 0x5B81FcA920fCdf667B310e8ae1F78a69cff49db9
+- ActEscrow: 0xE69bDf3279f545eA541aDF3AEB2153C052EbD1AF
+- ActCore: 0x70C5Ec74317EdFab13314B89342E1F70BaCa018e
+- ActTreasury: 0x44504504938CcBF8D0d99B370A882b94ffCf2423
 
 ---
 

@@ -36,7 +36,12 @@ DeFi/CeFi Agnostic: Easy integration of commodity settlement for apps, platforms
 
 ## Deployment
 
-STAY Protocol is not yet deployed on Ethereum mainnet. Repository opens at deployment.
+Official Canonical deployment addresses:
+
+    StayCore: 0x09B9349232CeDB36A9e0efAEa06b5Fda7C49A82a
+    PropertyRegistry: 0x24355ae449E6F189884679AF653211549C19d95F
+    Escrow: 0x69Cf51FF2389a5af38017eC5B19180c8587B081a
+    PROTOCOL_TREASURY: 0x5496cEB0b6468f6F7D5DB2Cf45883BEb92B25D9D
 
 ---
 

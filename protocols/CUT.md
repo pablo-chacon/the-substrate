@@ -36,7 +36,11 @@ DeFi/CeFi Agnostic: Easy integration of digital rights settlement for apps, plat
 
 ## Deployment
 
-CUT Protocol is not yet deployed on Ethereum mainnet. Repository opens at deployment.
+Official CUT protocol contract addresses:
+
+- CUTSceneRegistry: 0x53526f214419b40127Da06f37D4206078fb49424
+- CUTMedia1155: 0x0Aed9B8CfEC1F19a0f92F0f0a62CD49E3e16D69f
+- CUT_TREASURY: 0x10EE295B53bB7c6f7Ea0A7c127718750317EA3AA
 
 ---
 

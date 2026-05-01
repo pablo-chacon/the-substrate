@@ -106,7 +106,16 @@ substrate/
 |---|---|
 | DeDe | https://github.com/pablo-chacon/dede-protocol |
 | DeDe Templates | https://github.com/pablo-chacon/dede-templates |
-
+| DROP | https://github.com/pablo-chacon/drop-protocol |
+| DROP Templates | https://github.com/pablo-chacon/drop-templates |
+| KEY | https://github.com/pablo-chacon/key-protocol |
+| KEY Templates | https://github.com/pablo-chacon/key-templates |
+| CUT | https://github.com/pablo-chacon/cut-protocol |
+| CUT Templates | https://github.com/pablo-chacon/cut-tooling |
+| ACT | https://github.com/pablo-chacon/act-protocol |
+| ACT Templates | https://github.com/pablo-chacon/act-templates |
+| STAY | https://github.com/pablo-chacon/stay-protocol |
+| STAY Templates | https://github.com/pablo-chacon/stay-tooling |
 ---
 
 *Contact: pablo-chacon-ai@proton.me*
