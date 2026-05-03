@@ -1,6 +1,6 @@
 # Blockchain Microservices
 
-If you have built with microservices, the architecture of The Substrate protocols will be immediately familiar. This document maps the analogy precisely.
+Onchain Microservices (OMS) is an architectural pattern that treats a public blockchain as permanent, neutral, ownerless infrastructure for hosting immutable single-responsibility services. Each service has one function, a deterministic interface, and no operator. Services are independent and unaware of each other. Orchestration happens at the platform layer above. The pattern produces infrastructure that is permanent without condition, neutral without policy, and composable without coupling.
 
 ---
 
