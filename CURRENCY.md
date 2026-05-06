@@ -4,7 +4,7 @@
 
 Every protocol in The Substrate is currency agnostic. The settlement layer operates on Ethereum mainnet. The currency a user pays in is a platform decision, not a protocol decision. These are two separate layers that do not need to agree.
 
-This is one of the most significant architectural properties of The Substrate. It means any platform built on any Substrate protocol can accept any currency: XMR, BTC, ETH, EUR, or any other — and any combination of them. The protocol never sees the original currency. It sees only the settled value.
+This is one of the most significant architectural properties of The Substrate. It means any platform built on any Substrate protocol can accept any currency: XMR, BTC, ETH, EUR,CeFi or any other, and any combination of them. The protocol never sees the original currency. It sees only the settled value.
 
 ---
 
