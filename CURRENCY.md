@@ -4,7 +4,7 @@
 
 Every protocol in The Substrate is currency agnostic. The settlement layer operates on Ethereum mainnet. The currency a user pays in is a platform decision, not a protocol decision. These are two separate layers that do not need to agree.
 
-This is one of the most significant architectural properties of The Substrate. It means any platform built on any Substrate protocol can accept any currency: XMR, BTC, ETH, EUR,CeFi or any other, and any combination of them. The protocol never sees the original currency. It sees only the settled value.
+This is one of the most significant architectural properties of The Substrate. It means any platform built on any Substrate protocol can accept any currency: XMR, BTC, ETH, EUR, CeFi or any other, and any combination of them. The protocol never sees the original currency. It sees only the settled value.
 
 ---
 
@@ -28,6 +28,8 @@ All on a single DeDe transaction. The protocol never knew any currency other tha
 ## CeFi Integration
 
 Currency agnosticism extends to CeFi. A platform that chooses to integrate traditional payment rails can accept EUR, USD, or any fiat currency and convert to ETH at the platform layer before interacting with the protocol. The protocol behavior is identical regardless of what the user paid in.
+
+Example: CeFi -> Ethereum -> CeFi
 
 This means The Substrate is accessible to anyone: crypto-native or not, without any protocol modification. The entry point is a platform decision. The settlement rail is always the same.
 
