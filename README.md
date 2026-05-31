@@ -34,6 +34,10 @@ No protocol depends on the others. All can be freely combined by platforms built
 | **ACT** | Physical Services | Settlement layer for real-world service delivery | 0.5% |
 | **STAY** | Commodity | Representation and settlement of commodity assets | 0.5% |
 
+Protocol Fee documentation: 
+
+[ECONOMICS.md](https://github.com/pablo-chacon/the-substrate/blob/main/ECONOMICS.md)
+
 ---
 
 
