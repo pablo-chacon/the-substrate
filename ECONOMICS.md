@@ -14,7 +14,7 @@ Infrastructure should not be a rent-seeking layer. The protocol fee is set at th
 
 The immutable protocol fee creates a permanent economic ceiling on extraction across the entire Substrate ecosystem.
 
-Any platform built on The Substrate that attempts to charge extractive fees is always competing against the template path — where the only fee is the protocol fee itself. Users and builders who find a platform's margins unreasonable have a documented, open, permanently available alternative. The economics of overreach do not work when the exit is always visible and always free.
+Any platform built on The Substrate protocols that attempts to charge extractive fees is always competing against the template path. Where the only fee is the protocol fee itself. Users and builders who find a platform's margins unreasonable have a documented, open, permanently available alternative. The economics of overreach do not work when the exit is always visible and always free.
 
 This is not enforced by governance, by legal agreement, or by any central authority. It is enforced by arithmetic. The moment a platform's fee structure becomes irrational relative to the protocol fee, the rational move is to use the templates directly. That option never closes.
 
