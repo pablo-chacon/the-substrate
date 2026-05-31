@@ -25,16 +25,18 @@ No protocol depends on the others. All can be freely combined by platforms built
 
 ## The Six Protocols
 
-| Protocol | Domain | Scope |
-|---|---|---|
-| **DeDe** | Parcel | Trustless pickup → dropoff → settlement for physical goods in transit |
-| **DROP** | Physical Storage | Intake, hold, and release of physical goods at a storage node |
-| **KEY** | Vehicle | Ownership representation and legally binding transfer of vehicles |
-| **CUT** | Digital Ownership | Fractional or full ownership rights of any digital medium |
-| **ACT** | Physical Services | Settlement layer for real-world service delivery |
-| **STAY** | Commodity | Representation and settlement of commodity assets |
+| Protocol | Domain | Scope | Protocol Fee |
+|---|---|---|---|
+| **DeDe** | Parcel | Trustless pickup → dropoff → settlement for physical goods in transit | 0.5% |
+| **DROP** | Physical Storage | Intake, hold, and release of physical goods at a storage node | 0.3% |
+| **KEY** | Vehicle | Ownership representation and legally binding transfer of vehicles | 0.3% |
+| **CUT** | Digital Ownership | Fractional or full ownership rights of any digital medium | 0.5% |
+| **ACT** | Physical Services | Settlement layer for real-world service delivery | 0.5% |
+| **STAY** | Commodity | Representation and settlement of commodity assets | 0.5% |
 
 ---
+
+
 
 ## Architectural Principle
 
