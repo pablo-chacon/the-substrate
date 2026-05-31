@@ -42,10 +42,10 @@ This was not designed as a defensive posture. It is simply what neutral public i
 |---|---|---|
 | **DeDe** | Parcel | 0.5% |
 | **DROP** | Physical Storage | 0.3% |
-| **KEY** | Vehicle | TBC at deployment |
-| **CUT** | Digital Ownership | TBC at deployment |
-| **ACT** | Physical Services | TBC at deployment |
-| **STAY** | Commodity | TBC at deployment |
+| **KEY** | Vehicle | 0.3% |
+| **CUT** | Digital Ownership | 0.5% |
+| **ACT** | Physical Services | 0.5% |
+| **STAY** | Commodity | 0.5% |
 
 For context, the centralized infrastructure handling equivalent transactions today charges: 1.5–3.5% for payment rails (Visa, Mastercard), 2.9% for digital payments (PayPal, Stripe), 8–15% for marketplace logistics (Amazon), 20–30% for delivery platforms, and 10–20% for asset transfer including dealer margins. The Substrate's protocol fees are 0.3–0.5%. The difference is not marginal. It is structural.
 
