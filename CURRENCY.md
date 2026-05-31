@@ -76,7 +76,7 @@ A person receives a notification that a parcel is available for collection at a 
 
 On a different chain, an XMR payment was converted to ETH to fund that settlement. On a third chain, the carrier received BTC. Three chains, one physical event, three temporally decoupled records with no shared identifier.
 
-This is a single routine transaction a Substrate protocol.
+This is a single routine transaction of any Substrate protocol.
 
 ---
 
