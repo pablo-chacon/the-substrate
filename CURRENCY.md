@@ -29,7 +29,10 @@ All on a single DeDe transaction. The protocol never knew any currency other tha
 
 Currency agnosticism extends to CeFi. A platform that chooses to integrate traditional payment rails can accept EUR, USD, or any fiat currency and convert to ETH at the platform layer before interacting with the protocol. The protocol behavior is identical regardless of what the user paid in.
 
-Example: CeFi -> Ethereum -> CeFi
+Examples:
+- CeFi -> ETH -> CeFi
+- CeFi -> ETH -> BTC
+- XMR -> ETH -> CeFi
 
 This means The Substrate is accessible to anyone: crypto-native or not, without any protocol modification. The entry point is a platform decision. The settlement rail is always the same.
 
