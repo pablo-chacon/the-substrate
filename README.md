@@ -2,7 +2,7 @@
 
 This is not a manifesto. It is not a disruption. It is an introduction to a set of options.
 
-Freedom, in its most practical form, is the presence of valid alternatives. When there is only one way to register a vehicle, one way to settle a transaction, one way to represent ownership, that is not a system. That is a dependency. We learned by history that dependencies get captured, gated, and weaponized.
+Freedom, in its most practical form, is the presence of valid alternatives. When there is only one way to register a vehicle, one way to settle a transaction, one way to represent ownership, that is not a system. That is a dependency. Through history we learned dependencies get captured, gated, and weaponized.
 
 The Substrate does not replace existing systems. It does not ask them to change. It does not compete with them. It simply exists alongside them as a set of neutral, open, deterministic alternatives. Anyone can use them or not. Platforms can build on them or not. Existing infrastructure continues unchanged.
 
