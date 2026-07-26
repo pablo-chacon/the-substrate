@@ -119,7 +119,7 @@ CUT does not attempt to prevent copying. Authorization is about access, not DRM.
 
 ## Resources
 
-- [Repository](https://github.com/pablo-chacon/managed-boredom-rpg) *(closed source, opens at CUT deployment)*
+- [Repository](https://github.com/pablo-chacon/managed-boredom-rpg)
 - [CUT Protocol](https://github.com/pablo-chacon/cut-protocol)
 
 ---
